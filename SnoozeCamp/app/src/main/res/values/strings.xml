@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SnoozeCamp</string>
+    <string name="facebook_app_id">959102167529633</string>
+
+    <string name="fb_login_protocol_scheme">fb959102167529633</string>
+    <string name="title_activity_action_bar">ActionBarActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="drawer_item_home">Home</string>
+    <string name="drawer_item_LookBook">LookBook</string>
+    <string name="drawer_item_Upcoming_Events">Upcoming Events</string>
+    <string name="drawer_item_Shop">Shop</string>
+    <string name="drawer_item_SnoozeCam">SnoozeCam</string>
+
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

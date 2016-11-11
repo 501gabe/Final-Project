@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "376952620587",
+    "firebase_url": "https://snoozecamp-68352.firebaseio.com",
+    "project_id": "snoozecamp-68352",
+    "storage_bucket": "snoozecamp-68352.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376952620587:android:510372c5737464d3",
+        "android_client_info": {
+          "package_name": "com.gabe.android.aca.snoozecamp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376952620587-cf0raal2r0d374n3eh7dnjdslvkh07vj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gabe.android.aca.snoozecamp",
+            "certificate_hash": "3FD947225F5D8F83C0C21A98E289822805DC602A"
+          }
+        },
+        {
+          "client_id": "376952620587-2g8sta7c8vfipmla58alocim463sn7u4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPSR37YP6MCCpo2wSE-zBWp7RGmzlqcv4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376952620587-2g8sta7c8vfipmla58alocim463sn7u4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

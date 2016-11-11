@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:title="Home"
+          android:id="@+id/HomeTab"/>
+    <item android:title="Upcoming Events"
+          android:id="@+id/UpcomingEvents"/>
+    <item
+        android:orderInCategory="102"
+        android:id="@+id/LookbookTab"
+        android:title="Lookbook"/>
+    <item android:title="Shop"
+          android:id="@+id/ShopTab"
+          android:orderInCategory="103"/>
+    <item android:title="SnoozeCam"
+          android:id="@+id/scimagecapture"
+          android:orderInCategory="104"/>
+    <item android:title="Promo"
+          android:orderInCategory="105"
+          android:id="@+id/promo"/>
+</menu>

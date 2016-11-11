@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <Button
+        android:text=" Capture and Send"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imageView1"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/sccapture"
+        android:fontFamily="casual"/>
+
+    <ImageView android:id="@+id/imageView1"
+               android:layout_height="400dp"
+               android:layout_width="match_parent"
+               android:layout_centerVertical="true"
+               android:layout_alignParentLeft="true"
+               android:layout_alignParentStart="true"/>
+
+    <TextView
+        android:text="Take a picture in your SnoozeCamp gear and Send it to us."
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView3"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:textAlignment="center"
+        android:textAllCaps="false"
+        android:fontFamily="casual"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"/>
+
+</RelativeLayout>
